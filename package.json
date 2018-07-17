@@ -19,10 +19,13 @@
     "gulp-rename": "^1.2.2",
     "gulp-sass": "^2.3.2",
     "gulp-uglify": "^1.5.4",
-    "jquery": "^1.11.3"
+    "jquery": "^1.12.4"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/BlackrockDigital/startbootstrap-agency.git"
+  },
+  "dependencies": {
+    "hoek": "^5.0.3"
   }
 }
