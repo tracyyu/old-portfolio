@@ -259,9 +259,11 @@ section {
             display: block;
             position: relative;
             max-width: 400px;
+            height: 289px;
             margin: 0 auto;
 
-            img {
+            .img-responsive {
+                height: 100%;
                 object-fit: cover;
             }
             .portfolio-hover {
