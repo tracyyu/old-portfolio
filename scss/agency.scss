@@ -260,6 +260,10 @@ section {
             position: relative;
             max-width: 400px;
             margin: 0 auto;
+
+            img {
+                object-fit: cover;
+            }
             .portfolio-hover {
                 background: fade-out($theme-primary, .9);
                 position: absolute;
